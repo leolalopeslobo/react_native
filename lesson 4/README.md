@@ -1,1 +1,1 @@
-Lists can also be displayed usinf **FlatList** Component. Here you don't need to worry about the scrolling and key areas, FlatList handles that. It has an in-built key exactor that looks for the key, but incase the key isn't denoted as key, then you can use the **keyExtractor** prop to assign the key accordingly.
+"# react_native" 
