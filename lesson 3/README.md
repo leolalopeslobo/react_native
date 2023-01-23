@@ -1,1 +1,1 @@
-This lesson is based on how to output a list on the screen using the **map** function from JavaScript that iterates through each item. Then, using the **ScrollVIew** which wraps the components and lets the user the scroll through the list.
+"# react_native" 
